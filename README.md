@@ -1,8 +1,8 @@
 ## Hola Mundo 🌎
 
-<p>actualmente soy un estudiante activo en el programa platzi master enfocado al <span style="color:green">__datascience__</span>.</p>  
-<p>me encanta la programacion y utilizo <span style="color:green">__python__</span>. como mi lenguaje principal</p>  
-<p>soy una pesona curiosa con ansias de aprender y con pasion por la <span style="color:green">__resolucion de problemas__</span>.</p>
+actualmente soy un estudiante activo en el programa platzi master enfocado al __datascience__  
+me encanta la programacion y utilizo __python__ como mi lenguaje principal  
+soy una pesona curiosa con ansias de aprender y con pasion por la __resolucion de problemas__
 <!--
 **cronozs/cronozs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
