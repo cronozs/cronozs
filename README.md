@@ -1,4 +1,4 @@
-## Hola Mundo 🌎
+## Hola Mundo 🌎🎮
 
 Soy un estudiante de platzi dentro del programa de platzi masters apasionado por la tecnología enfocado en datascience.
 Trabajo principalmente con el lenguaje Python, y también se de manejo de bases de datos SQL, C++ y JavaScript, tengo un nivel de ingles intermedio B1.
