@@ -15,6 +15,13 @@
 
 - 🎮 [Itchio](https://cronoz.itch.io/)  
 - 📷 [Instagram](https://www.instagram.com/cronodev/)  
+
+## 📊 Estadísticas generales
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cronozs&show_icons=true&theme=tokyonight&count_private=true)
+## 🔥 Lenguajes más usados:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cronozs&layout=compact&theme=tokyonight)
+## 🏆 Racha de contribuciones:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cronozs&theme=tokyonight)
 <!--
 **cronozs/cronozs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
