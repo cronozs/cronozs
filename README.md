@@ -1,9 +1,20 @@
-## Hola Mundo 🌎🎮
+# 👾 Hola Mundo 🌎🎮
+👋 ¡Hola! Soy un desarrollador de videojuegos apasionado por la tecnología y la creación de experiencias interactivas. Me encanta diseñar y programar juegos, combinando creatividad y lógica para ofrecer experiencias únicas.
 
-Soy un estudiante de platzi dentro del programa de platzi masters apasionado por la tecnología enfocado en datascience.
-Trabajo principalmente con el lenguaje Python, y también se de manejo de bases de datos SQL, C++ y JavaScript, tengo un nivel de ingles intermedio B1.
-Personalmente me gustan los retos y resolver problemas de diferentes maneras utilizando el análisis, la lógica y algoritmos.
-Yo creo que siempre hay muchas respuestas a un problema solo hay que buscar la que mas convenga o la que mas guste. 
+## 💻 Tecnologías que uso:
+- 🎮 Unity (C#) y Unreal Engine (Blueprints) para el desarrollo de juegos.
+- 🐍 Python y 🌐 JavaScript para diversas aplicaciones.
+- 🗄️ SQL para el manejo de bases de datos.
+
+
+🧠 Me gustan los desafíos y encontrar soluciones creativas a problemas complejos. Creo que en el desarrollo de videojuegos, siempre hay múltiples formas de abordar un problema, y mi objetivo es encontrar la más efectiva y divertida para el jugador.
+
+🚀 Siempre aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades en game dev.
+
+## 👀 Mira mis proyectos:
+
+- 🎮 [Itchio](https://cronoz.itch.io/)  
+- 📷 [Instagram](https://www.instagram.com/cronodev/)  
 <!--
 **cronozs/cronozs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
